@@ -5,7 +5,7 @@ This repository contains sample Python projects and code examples to showcase my
 
 ## GOOGLE TRENDS ANALYSIS
 
-[GOOGLE TRENDS ANALYSIS.py][GOOGLE TRENDS ANALYSIS.ipynb]
+[GOOGLE TRENDS DATA ANALYSIS/Google Trends Data Analysis.py][[GOOGLE TRENDS DATA ANALYSIS/Google Trends Data Analysis.ipynb]
 
 ## Project Description
 
