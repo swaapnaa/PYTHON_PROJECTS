@@ -5,7 +5,7 @@ This repository contains sample Python projects and code examples to showcase my
 
 ## GOOGLE TRENDS ANALYSIS
 
-[GOOGLE TRENDS DATA ANALYSIS.py][[GOOGLE TRENDS DATA ANALYSIS.ipynb]
+[GOOGLE TRENDS DATA ANALYSIS.py] [[GOOGLE TRENDS DATA ANALYSIS.ipynb]
 
 ## Project Description
 
@@ -29,7 +29,7 @@ Some key analysis includes:
 
 ## LSOA CRIME RATE ANALYSIS
 
-[LSOA CRIME RATE ANALYSIS.py][LSOA CRIME RATE ANALYSIS.ipynb]
+[LSOA CRIME RATE ANALYSIS.py] [LSOA CRIME RATE ANALYSIS.ipynb]
 
 ## Project Description
 
