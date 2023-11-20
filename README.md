@@ -3,8 +3,7 @@
 
 This repository contains sample Python projects and code examples to showcase my skills and abilities.
 
-## GOOGLE TRENDS ANALYSIS ![icons8-trends-64](https://github.com/swaapnaa/PYTHON_PROJECTS/assets/149737403/0c730c34-58d5-43c6-a4a0-1f0ecf79d5ee)
-
+## GOOGLE TRENDS ANALYSIS 
 
 [GOOGLE TRENDS DATA ANALYSIS.py] [GOOGLE TRENDS DATA ANALYSIS.ipynb]
 
